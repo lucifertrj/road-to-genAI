@@ -19,3 +19,7 @@
 - Stable Diffusion
 - Image Inpainting
 - ControlNet
+- Multimodal - BLIP, CLIP
+- Video-based Diffusion models
+
+The roadmap is subject to change, based on the journey. If you are already pro in ControlNet and Diffusion Models, Please feel free to update the roadmap. 
